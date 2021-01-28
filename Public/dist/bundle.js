@@ -16,7 +16,7 @@
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-dom */ \"./node_modules/react-dom/index.js\");\n/* harmony import */ var _src_App_App__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./src/App/App */ \"./Public/src/App/App.jsx\");\n\n\n\nreact_dom__WEBPACK_IMPORTED_MODULE_1__.render( /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_src_App_App__WEBPACK_IMPORTED_MODULE_2__.default, null), document.getElementById('proxy'));\n\n//# sourceURL=webpack://main-product-gallery-proxy/./Public/index.jsx?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-dom */ \"./node_modules/react-dom/index.js\");\n/* harmony import */ var _src_App_App__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./src/App/App */ \"./Public/src/App/App.jsx\");\n/* harmony import */ var _src_App_App__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_src_App_App__WEBPACK_IMPORTED_MODULE_2__);\n\n\n\nreact_dom__WEBPACK_IMPORTED_MODULE_1__.render( /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement((_src_App_App__WEBPACK_IMPORTED_MODULE_2___default()), null), document.getElementById('proxy'));\n\n//# sourceURL=webpack://main-product-gallery-proxy/./Public/index.jsx?");
 
 /***/ }),
 
@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var reac
   \********************************/
 /***/ (() => {
 
-eval("throw new Error(\"Module build failed (from ./node_modules/babel-loader/lib/index.js):\\nSyntaxError: /Users/sambrandon/Documents/SJO-3/FEC-proxy/Main-product-gallery-proxy/Public/src/App/App.jsx: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (6:4)\\n\\n\\u001b[0m \\u001b[90m 4 | \\u001b[39m  \\u001b[36mreturn\\u001b[39m (\\u001b[0m\\n\\u001b[0m \\u001b[90m 5 | \\u001b[39m    \\u001b[33m<\\u001b[39m\\u001b[33mdiv\\u001b[39m id\\u001b[33m=\\u001b[39m\\u001b[32m\\\"root\\\"\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[33m<\\u001b[39m\\u001b[33m/\\u001b[39m\\u001b[33mdiv\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[0m\\n\\u001b[0m\\u001b[31m\\u001b[1m>\\u001b[22m\\u001b[39m\\u001b[90m 6 | \\u001b[39m    \\u001b[33m<\\u001b[39m\\u001b[33mscript\\u001b[39m src\\u001b[33m=\\u001b[39m\\u001b[32m\\\"bundle/service1.js\\\"\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[33m<\\u001b[39m\\u001b[33m/\\u001b[39m\\u001b[33mscript\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m   | \\u001b[39m    \\u001b[31m\\u001b[1m^\\u001b[22m\\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m 7 | \\u001b[39m    \\u001b[33m<\\u001b[39m\\u001b[33mdiv\\u001b[39m id\\u001b[33m=\\u001b[39m\\u001b[32m\\\"MainProductDescription\\\"\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[33m<\\u001b[39m\\u001b[33m/\\u001b[39m\\u001b[33mdiv\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m 8 | \\u001b[39m    \\u001b[33m<\\u001b[39m\\u001b[33mscript\\u001b[39m src\\u001b[33m=\\u001b[39m\\u001b[32m\\\"bundle/service2.js\\\"\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[33m<\\u001b[39m\\u001b[33m/\\u001b[39m\\u001b[33mscript\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m 9 | \\u001b[39m  )\\u001b[33m;\\u001b[39m\\u001b[0m\\n    at Object._raise (/Users/sambrandon/Documents/SJO-3/FEC-proxy/Main-product-gallery-proxy/node_modules/@babel/parser/lib/index.js:748:17)\\n    at Object.raiseWithData (/Users/sambrandon/Documents/SJO-3/FEC-proxy/Main-product-gallery-proxy/node_modules/@babel/parser/lib/index.js:741:17)\\n    at Object.raise (/Users/sambrandon/Documents/SJO-3/FEC-proxy/Main-product-gallery-proxy/node_modules/@babel/parser/lib/index.js:735:17)\\n    at Object.jsxParseElementAt (/Users/sambrandon/Documents/SJO-3/FEC-proxy/Main-product-gallery-proxy/node_modules/@babel/parser/lib/index.js:4741:18)\\n    at Object.jsxParseElement (/Users/sambrandon/Documents/SJO-3/FEC-proxy/Main-product-gallery-proxy/node_modules/@babel/parser/lib/index.js:4751:17)\\n    at Object.parseExprAtom (/Users/sambrandon/Documents/SJO-3/FEC-proxy/Main-product-gallery-proxy/node_modules/@babel/parser/lib/index.js:4758:19)\\n    at Object.parseExprSubscripts (/Users/sambrandon/Documents/SJO-3/FEC-proxy/Main-product-gallery-proxy/node_modules/@babel/parser/lib/index.js:10150:23)\\n    at Object.parseUpdate (/Users/sambrandon/Documents/SJO-3/FEC-proxy/Main-product-gallery-proxy/node_modules/@babel/parser/lib/index.js:10130:21)\\n    at Object.parseMaybeUnary (/Users/sambrandon/Documents/SJO-3/FEC-proxy/Main-product-gallery-proxy/node_modules/@babel/parser/lib/index.js:10119:17)\\n    at Object.parseExprOps (/Users/sambrandon/Documents/SJO-3/FEC-proxy/Main-product-gallery-proxy/node_modules/@babel/parser/lib/index.js:9989:23)\");\n\n//# sourceURL=webpack://main-product-gallery-proxy/./Public/src/App/App.jsx?");
+eval("throw new Error(\"Module build failed (from ./node_modules/babel-loader/lib/index.js):\\nSyntaxError: /Users/scotty/Desktop/HackReactor/Capstones/FEC/Main-Product-Description-PROXY/Public/src/App/App.jsx: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (8:6)\\n\\n\\u001b[0m \\u001b[90m  6 | \\u001b[39m    \\u001b[36mreturn\\u001b[39m (\\u001b[0m\\n\\u001b[0m \\u001b[90m  7 | \\u001b[39m      \\u001b[33m<\\u001b[39m\\u001b[33mdiv\\u001b[39m id\\u001b[33m=\\u001b[39m\\u001b[32m\\\"root\\\"\\u001b[39m\\u001b[33m>\\u001b[39mtest\\u001b[33m<\\u001b[39m\\u001b[33m/\\u001b[39m\\u001b[33mdiv\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[0m\\n\\u001b[0m\\u001b[31m\\u001b[1m>\\u001b[22m\\u001b[39m\\u001b[90m  8 | \\u001b[39m      \\u001b[33m<\\u001b[39m\\u001b[33mdiv\\u001b[39m id\\u001b[33m=\\u001b[39m\\u001b[32m\\\"MainProductDescription\\\"\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[33m<\\u001b[39m\\u001b[33m/\\u001b[39m\\u001b[33mdiv\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m    | \\u001b[39m      \\u001b[31m\\u001b[1m^\\u001b[22m\\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m  9 | \\u001b[39m    )\\u001b[33m;\\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m 10 | \\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m 11 | \\u001b[39m}\\u001b[0m\\n    at Object._raise (/Users/scotty/Desktop/HackReactor/Capstones/FEC/Main-Product-Description-PROXY/node_modules/@babel/parser/lib/index.js:748:17)\\n    at Object.raiseWithData (/Users/scotty/Desktop/HackReactor/Capstones/FEC/Main-Product-Description-PROXY/node_modules/@babel/parser/lib/index.js:741:17)\\n    at Object.raise (/Users/scotty/Desktop/HackReactor/Capstones/FEC/Main-Product-Description-PROXY/node_modules/@babel/parser/lib/index.js:735:17)\\n    at Object.jsxParseElementAt (/Users/scotty/Desktop/HackReactor/Capstones/FEC/Main-Product-Description-PROXY/node_modules/@babel/parser/lib/index.js:4741:18)\\n    at Object.jsxParseElement (/Users/scotty/Desktop/HackReactor/Capstones/FEC/Main-Product-Description-PROXY/node_modules/@babel/parser/lib/index.js:4751:17)\\n    at Object.parseExprAtom (/Users/scotty/Desktop/HackReactor/Capstones/FEC/Main-Product-Description-PROXY/node_modules/@babel/parser/lib/index.js:4758:19)\\n    at Object.parseExprSubscripts (/Users/scotty/Desktop/HackReactor/Capstones/FEC/Main-Product-Description-PROXY/node_modules/@babel/parser/lib/index.js:10150:23)\\n    at Object.parseUpdate (/Users/scotty/Desktop/HackReactor/Capstones/FEC/Main-Product-Description-PROXY/node_modules/@babel/parser/lib/index.js:10130:21)\\n    at Object.parseMaybeUnary (/Users/scotty/Desktop/HackReactor/Capstones/FEC/Main-Product-Description-PROXY/node_modules/@babel/parser/lib/index.js:10119:17)\\n    at Object.parseExprOps (/Users/scotty/Desktop/HackReactor/Capstones/FEC/Main-Product-Description-PROXY/node_modules/@babel/parser/lib/index.js:9989:23)\");\n\n//# sourceURL=webpack://main-product-gallery-proxy/./Public/src/App/App.jsx?");
 
 /***/ }),
 
@@ -155,6 +155,35 @@ eval("\n\nif (false) {} else {\n  module.exports = __webpack_require__(/*! ./cjs
 /******/ 	}
 /******/ 	
 /************************************************************************/
+/******/ 	/* webpack/runtime/compat get default export */
+/******/ 	(() => {
+/******/ 		// getDefaultExport function for compatibility with non-harmony modules
+/******/ 		__webpack_require__.n = (module) => {
+/******/ 			var getter = module && module.__esModule ?
+/******/ 				() => module['default'] :
+/******/ 				() => module;
+/******/ 			__webpack_require__.d(getter, { a: getter });
+/******/ 			return getter;
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/define property getters */
+/******/ 	(() => {
+/******/ 		// define getter functions for harmony exports
+/******/ 		__webpack_require__.d = (exports, definition) => {
+/******/ 			for(var key in definition) {
+/******/ 				if(__webpack_require__.o(definition, key) && !__webpack_require__.o(exports, key)) {
+/******/ 					Object.defineProperty(exports, key, { enumerable: true, get: definition[key] });
+/******/ 				}
+/******/ 			}
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/hasOwnProperty shorthand */
+/******/ 	(() => {
+/******/ 		__webpack_require__.o = (obj, prop) => Object.prototype.hasOwnProperty.call(obj, prop)
+/******/ 	})();
+/******/ 	
 /******/ 	/* webpack/runtime/make namespace object */
 /******/ 	(() => {
 /******/ 		// define __esModule on exports
