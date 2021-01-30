@@ -1,7 +1,7 @@
 const express = require('express');
 const morgan = require('morgan');
 const path = require('path');
-const router = require('./router');
+const router = require('./Router');
 
 const PUBLIC_DIR = path.resolve(__dirname, '..', 'Public', 'dist');
 const app = express();
